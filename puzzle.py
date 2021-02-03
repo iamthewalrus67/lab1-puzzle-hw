@@ -1,3 +1,8 @@
+'''
+https://github.com/iamthewalrus67/lab1-puzzle-hw
+'''
+
+
 def validate_board(board: list) -> bool:
     '''
     >>> validate_board(["**** ****", "***1 ****", "**  3****", "* 4 1****",\
